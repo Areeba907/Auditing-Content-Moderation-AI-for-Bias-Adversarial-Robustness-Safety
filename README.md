@@ -183,7 +183,3 @@ Model shows strong vulnerability to text perturbation.
 
 ---
 
-## 👨‍💻 Author
-
-**Your Name**  
-FAST-NUCES
