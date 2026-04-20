@@ -1,5 +1,4 @@
 # Auditing-Content-Moderation-AI-for-Bias-Adversarial-Robustness-Safety
-# Responsible AI Assignment – Toxicity Moderation System
 
 This repository contains a complete end-to-end implementation of a **toxicity classification and moderation system**, including:
 
